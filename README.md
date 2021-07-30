@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grhjpn
 - 👀 I’m interested in exploring coding and all its practical functions
-- 🌱 I’m currently learning Bash and Git
+- 🌱 I’m currently learning Bash scripting
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me: Twitter/@grhjpn
 
